@@ -1,0 +1,44 @@
+
+
+
+.p-3{
+    border: 1px solid;
+    width: 500px;
+    height: auto;
+    text-align-last: left;
+}
+
+/* .box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    justify-content:space-around;  
+} */
+
+
+
+
+.card{
+    margin-top: 5%;
+}
+
+.navbar{
+    position: sticky;
+    top: 0px;
+}
+
+.sticky {
+   
+    top: 0;
+    width: 100%;
+  }
+
+#home{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.author_heading{
+    font-size: xx-large;
+    font-family: sans-serif;
+}
